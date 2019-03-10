@@ -1,0 +1,13 @@
+C:\Users\Desktop\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\App6.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\App6\App6\App6\bin\Debug\netstandard2.0\App6.deps.json
+C:\Users\Desktop\source\repos\App6\App6\App6\bin\Debug\netstandard2.0\App6.dll
+C:\Users\Desktop\source\repos\App6\App6\App6\bin\Debug\netstandard2.0\App6.pdb
+C:\Users\Desktop\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Desktop\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Desktop\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Desktop\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\App6.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\App6.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\App6.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Desktop\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\App6.dll
+C:\Users\Desktop\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\App6.pdb
